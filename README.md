@@ -12,3 +12,7 @@ Tag the issue with a label:
  - `suggestion` if you have a more general suggestion.
  
 We will perform automatic and some manual checks.
+
+# If you have a question about this process
+
+The issues on this repository are for automated reporting problems with the data only. If you have a suggestion, question or comment about how we could improve the processs, we'd love to hear it! Head over to the ["Event Data Investigator" repository](https://github.com/CrossRef/event-data-investigator).
