@@ -1,15 +1,14 @@
-# Event Data Enquiries
+# Is there something missing from Crossref Event Data?
 
-This repository is used to track enquiries about Crossref Event Data. For example, if you think a particular webpage or Tweet should have been captured but you can't find it in the Event Data Query API.
+**If you have found a link in a webpage, tweet, blog that you think we should have tracked, you can report it here.** Our system will try and work out went wrong automatically and we'll take a look.
 
-## How it works
-
-Create a [new issue](https://github.com/CrossRef/event-data-enquiries/issues/new). Paste the URL as the title of the issue. If you want you can describe the issue.
+**[Create a new issue](https://github.com/CrossRef/event-data-enquiries/issues/new)**. Paste the URL as the title of the issue. You can add a description if you want.
 
 Tag the issue with a label:
 
  - `missing-event` if the URL should have been captured in an Event.
  - `suggested-newsfeed` if you have found an RSS newsfeed that should be traced.
  - `suggested-website` if you have found a website that you think we should track.
+ - `suggestion` if you have a more general suggestion.
  
-We will perform some automatic and some manual checks.
+We will perform automatic and some manual checks.
